@@ -25,6 +25,12 @@ Includes:
 - Dashboard with logout
 - Easy to extend or integrate
 
+![Screenshot (22)](https://github.com/user-attachments/assets/ce7a158a-abd2-46a2-a7a6-3aaf9f800da9)
+![Screenshot (23)](https://github.com/user-attachments/assets/a4427a78-81f7-4766-8e25-4b11d2cec653)
+![Screenshot (24)](https://github.com/user-attachments/assets/dd0f9ca0-b6ea-4b09-88b4-98723e5e2de3)
+![Screenshot (25)](https://github.com/user-attachments/assets/04e551f5-49f6-42c7-9fa6-156860554759)
+
+
 ## 🛠️ Installation
 
 ```bash
@@ -32,5 +38,4 @@ git clone https://github.com/your-username/express-auth-kit.git
 cd express-auth-kit
 npm install
 npm start
-![Screenshot (22)](https://github.com/user-attachments/assets/62419241-bb62-48b1-a3d2-abc745808988)
 
