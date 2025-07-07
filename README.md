@@ -32,3 +32,5 @@ git clone https://github.com/your-username/express-auth-kit.git
 cd express-auth-kit
 npm install
 npm start
+![Screenshot (22)](https://github.com/user-attachments/assets/62419241-bb62-48b1-a3d2-abc745808988)
+
